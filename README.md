@@ -1,1 +1,3 @@
 # Instamood-Predictor
+
+Developed a sentiment analysis system to assess the emotional tone of Instagram post comments. Utilized Instaloader to extract comments, and applied data cleaning techniques to prepare the text for analysis. Built a sentiment prediction model using natural language processing (NLP) techniques, specifically TF-IDF vectorization and a machine learning classifier, trained on the IMDb dataset. Integrated the model into a pipeline that processes Instagram comments and outputs their predicted sentiments. The final results were stored in a structured CSV format for further analysis and reporting.
